@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+jupyter
+notebook
+fastapi
+uvicorn
+# streamlit       # dashboard
+# pyspark         # para usar Spark
